@@ -159,9 +159,6 @@ Copyright © 2025, [SuperManito](https://github.com/SuperManito). Released under
 
 这是一个完全开源的项目，旨在为从事计算机相关行业的朋友们提供便利，使换源更简单
 
-## 特别感谢
-
-<a href="https://www.jetbrains.com/zh-cn" style="text-decoration: none;"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/assets/images/support/jetbrains-dark.svg" width="140" height="50"><img src="docs/assets/images/support/jetbrains-light.svg" alt="jetbrains" width="140" height="50"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.netlify.com" style="text-decoration: none;"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/assets/images/support/netlify-dark.png" width="110"><img src="docs/assets/images/support/netlify-light.png" alt="netlify" width="110"></picture></a>
 <a href="https://star-history.com/#Xnidada/LinuxMirrors-NoAD&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xnidada/LinuxMirrors-NoAD&type=Date&theme=dark" />
