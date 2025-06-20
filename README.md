@@ -6,10 +6,10 @@
         </picture>
     </a>
 </p>
-<p align="center">GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本</p>
+<p align="center">GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本但无广版</p>
 <p align="center">
-  <a href="https://github.com/SuperManito/LinuxMirrors/blob/main/LICENSE"><img src="https://shields.io/github/license/SuperManito/LinuxMirrors?color=%23007bff" alt="License: MIT"></a>
-  <a href="https://github.com/SuperManito/LinuxMirrors"><img src="https://img.shields.io/github/stars/SuperManito/LinuxMirrors?color=%23007bff&style=flat-square" alt="Stars"></a><br>
+  <a href="https://github.com/Xnidada/LinuxMirrors-NoAD/blob/main/LICENSE"><img src="https://shields.io/github/license/Xnidada/LinuxMirrors-NoAD?color=%23007bff" alt="License: MIT"></a>
+  <a href="https://github.com/Xnidada/LinuxMirrors-NoAD"><img src="https://img.shields.io/github/stars/Xnidada/LinuxMirrors-NoAD?color=%23007bff&style=flat-square" alt="Stars"></a><br>
 </p>
 <p align="center">
     <a href="https://hellogithub.com/repository/775d5b3d0aa04e90be9162104e757f2e" target="_blank">
@@ -138,24 +138,24 @@
 - ### GNU/Linux 更换系统软件源
 
     ```bash
-    bash <(curl -sSL https://linuxmirrors.cn/main.sh)
+    bash <(curl -sSL https://github.com/Xnidada/LinuxMirrors-NoAD/blob/main/ChangeMirrors.sh)
     ```
 
 - ### Docker 安装与换源
 
     ```bash
-    bash <(curl -sSL https://linuxmirrors.cn/docker.sh)
+    bash <(curl -sSL https://github.com/Xnidada/LinuxMirrors-NoAD/blob/main/DockerInstallation.sh)
     ```
 
 - ### Docker 更换镜像加速器
 
     ```bash
-    bash <(curl -sSL https://linuxmirrors.cn/docker.sh) --only-registry
+    bash <(curl -sSL https://github.com/Xnidada/LinuxMirrors-NoAD/blob/main/DockerInstallation.sh) --only-registry
     ```
 
 ## LICENSE
 
-Copyright © 2025, [SuperManito](https://github.com/SuperManito). Released under the [MIT](https://github.com/SuperManito/LinuxMirrors/blob/main/LICENSE).
+Copyright © 2025, [SuperManito](https://github.com/SuperManito). Released under the [MIT](https://github.com/Xnidada/LinuxMirrors-NoAD/blob/main/LICENSE).
 
 这是一个完全开源的项目，旨在为从事计算机相关行业的朋友们提供便利，使换源更简单
 
@@ -165,11 +165,11 @@ Copyright © 2025, [SuperManito](https://github.com/SuperManito). Released under
 
 本项目已加入 JetBrains & Netlify 开源项目计划
 
-<a href="https://star-history.com/#SuperManito/LinuxMirrors&Date">
+<a href="https://star-history.com/#Xnidada/LinuxMirrors-NoAD&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SuperManito/LinuxMirrors&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SuperManito/LinuxMirrors&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SuperManito/LinuxMirrors&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xnidada/LinuxMirrors-NoAD&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xnidada/LinuxMirrors-NoAD&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xnidada/LinuxMirrors-NoAD&type=Date" />
  </picture>
 </a>
 
